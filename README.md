@@ -7,7 +7,7 @@
 - `~Be confident on your self ~`
 -               -By Madhu..
   _NOW LEARNING ON SQL_
- EACH AND EVERYTHING IN THE ENTIRE WORLD IS SPL                
+ ~EACH AND EVERYTHING IN THE ENTIRE WORLD IS SPL~                
 
 <!---
 madhumitha2127/madhumitha2127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
