@@ -1,13 +1,14 @@
 - 👋 Hi, I’m Ms.MADHUMITHA
 - 👀 I’m interested in  coding...
+- _NOW LEARNING ON SQL_
 - 🌱<< I’m currently learning python and in future etc>>.. ...
 - 💞️ I’m looking to collaborate on techinical projects ...
 - 📫^ And I'm cuurently studying B.Tech AI&DS programme in KITE^...
 - ⚡ ||Fun fact: I'm a friendly guy if you wont cheat me|| ...
 - `~Be confident on your self ~`
 -               -By Madhu..
-  _NOW LEARNING ON SQL_
- ~EACH AND EVERYTHING IN THE ENTIRE WORLD IS SPL~                
+  
+                
 
 <!---
 madhumitha2127/madhumitha2127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
