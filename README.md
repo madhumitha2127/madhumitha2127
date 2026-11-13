@@ -1,27 +1,25 @@
 
 <div align="center">
 
-# `Madhumitha.dev`
-
-### BEYOND THE CODE.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0B0F14&text=Madhumitha.dev&fontColor=3DF2E0&fontSize=48&fontAlignY=45&desc=BEYOND%20THE%20CODE.&descAlignY=70&descSize=17&stroke=3DF2E0&strokeWidth=1" width="100%" />
 
 **Ideas are my input. Innovation is my output.**
 
-`BUILD` · `LEARN` · `IMPROVE`
+`BUILD` &nbsp; `LEARN` &nbsp; `IMPROVE`
 
 </div>
 
 ---
 
-### `$ whoami`
+### `> whoami`
 
-I'm Madhumitha — an AI & Data Science undergraduate interested in understanding how software works and building my skills one concept at a time.
+I'm an **AI & Data Science undergraduate** interested in software development, programming and data analytics.
 
-I enjoy solving problems, exploring new technologies, and turning what I learn into practical knowledge.
+I enjoy solving problems, understanding how things work, and continuously improving my technical skills.
 
-### `$ tech_stack`
+### `> technical_skills`
 
-**Languages**
+**Programming Languages**
 
 `Python` `Java` `C` `C++` `SQL`
 
@@ -33,33 +31,31 @@ I enjoy solving problems, exploring new technologies, and turning what I learn i
 
 `NumPy` `Pandas` `Excel` `Tableau`
 
-### `$ currently_exploring`
+### `> currently_learning`
 
 - Strengthening Java and Data Structures & Algorithms
-- Improving SQL and data analysis skills
-- Learning Python libraries for data science
-- Exploring backend development and cloud technologies
+- Improving SQL and data analysis
+- Exploring Python libraries for Data Science
+- Learning backend development and cloud technologies
 
-### `$ mindset`
+### `> my_approach`
 
 ```text
-Curiosity over comfort.
-Understanding over memorizing.
-Consistency over perfection.
-Progress, one commit at a time.
+01  Curiosity over comfort.
+02  Understanding over memorizing.
+03  Consistency over perfection.
+04  Progress, one commit at a time.
 ```
 
-### `$ connect`
+### `> find_me`
 
-- [GitHub](https://github.com/madhumitha2127)
-- [LeetCode](https://leetcode.com/u/MADHUMITHA__A/)
+<a href="https://github.com/madhumitha2127">GitHub</a> &nbsp; | &nbsp;
+<a href="https://leetcode.com/u/MADHUMITHA__A/">LeetCode</a>
 
 ---
 
 <div align="center">
 
-`VOID BLACK` #0B0F14  ·  `NEON CYAN` #3DF2E0
-
-**Keep learning. Keep building.**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0B0F14&text=KEEP%20LEARNING.%20KEEP%20BUILDING.&fontColor=3DF2E0&fontSize=16" width="100%" />
 
 </div>
