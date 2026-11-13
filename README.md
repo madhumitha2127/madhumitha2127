@@ -13,9 +13,11 @@
 
 ### `> whoami`
 
-I'm an **AI & Data Science undergraduate** interested in software development, programming and data analytics.
+Hey, I'm Madhumitha!
 
-I enjoy solving problems, understanding how things work, and continuously improving my technical skills.
+An AI & Data Science undergraduate passionate about programming, software development and data analytics.
+
+I enjoy solving problems, exploring technologies and learning how things work behind the scenes.
 
 ### `> technical_skills`
 
@@ -33,10 +35,10 @@ I enjoy solving problems, understanding how things work, and continuously improv
 
 ### `> currently_learning`
 
-- Strengthening Java and Data Structures & Algorithms
-- Improving SQL and data analysis
-- Exploring Python libraries for Data Science
-- Learning backend development and cloud technologies
+- Java and Data Structures & Algorithms
+- SQL and data analysis
+- Python libraries for Data Science
+- Backend development and cloud technologies
 
 ### `> my_approach`
 
