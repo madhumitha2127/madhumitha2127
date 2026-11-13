@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/profile-banner.gif" width="100%" alt="Madhumitha.dev animated terminal banner" />
+<img src="./assets/profile-banner.gif" width="100%" alt="Madhumitha.dev animated terminal banner" />
 
 **Ideas are my input. Innovation is my output.**
 
