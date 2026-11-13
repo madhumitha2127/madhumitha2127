@@ -1,13 +1,15 @@
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0B0F14&text=Madhumitha.dev&fontColor=3DF2E0&fontSize=48&fontAlignY=45&desc=BEYOND%20THE%20CODE.&descAlignY=70&descSize=17&stroke=3DF2E0&strokeWidth=1" width="100%" />
+<img src="assets/profile-banner.gif" width="100%" alt="Madhumitha.dev animated terminal banner" />
 
 **Ideas are my input. Innovation is my output.**
 
-`BUILD` &nbsp; `LEARN` &nbsp; `IMPROVE`
+`BUILD` · `LEARN` · `IMPROVE`
 
 </div>
+
 
 ---
 
