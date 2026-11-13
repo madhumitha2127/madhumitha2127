@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 <img src="assets/profile-banner.gif" width="100%" alt="Madhumitha.dev animated terminal banner" />
@@ -9,7 +8,6 @@
 `BUILD` · `LEARN` · `IMPROVE`
 
 </div>
-
 
 ---
 
@@ -51,8 +49,13 @@ I enjoy solving problems, understanding how things work, and continuously improv
 
 ### `> find_me`
 
-<a href="https://github.com/madhumitha2127">GitHub</a> &nbsp; | &nbsp;
+<div align="center">
+
+<a href="https://github.com/madhumitha2127">GitHub</a>
+&nbsp; | &nbsp;
 <a href="https://leetcode.com/u/MADHUMITHA__A/">LeetCode</a>
+
+</div>
 
 ---
 
