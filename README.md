@@ -83,19 +83,24 @@ STATUS: LEARNING_MODE_ACTIVE
 
 </div>
 
-### 🤝 `06 / CONNECT_WITH_ME`
+
+### 📊 `06 / CODING_DASHBOARD`
 
 <div align="center">
 
-<a href="https://github.com/madhumitha2127">
-<img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=3DF2E0" />
-</a>
-
-<a href="https://leetcode.com/u/MADHUMITHA__A/">
-<img src="https://img.shields.io/badge/LeetCode-0B0F14?style=for-the-badge&logo=leetcode&logoColor=3DF2E0" />
-</a>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=madhumitha2127&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=3DF2E0&text_color=FFFFFF&icon_color=3DF2E0" width="100%" alt="GitHub statistics" />
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=madhumitha2127&hide_border=true&background=0B0F14&ring=3DF2E0&fire=3DF2E0&currStreakLabel=3DF2E0&sideLabels=3DF2E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="100%" alt="GitHub contribution streak" />
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 
